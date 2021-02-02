@@ -10,8 +10,8 @@ role: Urbanist + Political Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Massachusetts Institute of Technology (MIT)
-  url: https://www.stanford.edu/
+- name: Massachusetts Institute of Technology
+  url: http://mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -75,5 +75,3 @@ Ying Gao is a doctoral candidate in political science at MIT, where she is a Gra
 Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing, migration-induced demographic diversity and public goods provision, and informal accountability, among other interests. 
 
 In 2020-2021, she also works as Democracy Visiting Fellow at the Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
