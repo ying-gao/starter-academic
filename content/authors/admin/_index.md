@@ -6,7 +6,7 @@ title: Ying Gao
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Urbanist + Political Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Political Science
+    institution: Massachusetts Institute of Technology
+    year: Present
+  - course: Master in City Planning
+    institution: Massachusetts Institute of Technology
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in International Politics
+    institution: Georgetown University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Ying Gao is a Ph.D. candidate in political science at MIT, where she is a Graduate Research Fellow at MIT Governance Lab, and studies political economy and comparative politics. Her dissertation research examines citizen-state relations in urban contexts of development through the lens of urban informality, focusing on how informal housing communities shape governance through collective action, public goods, and subjective perceptions of what it means to participate in politics. She looks at these questions using an array of observational and quasi-experimental methods, and at global and local scales, leveraging cross-national public opinion data and administrative, spatial, and survey data from Indonesia. Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing in developed and developing economies, migration-induced ethnic diversity and public goods, and informal accountability, among other interests. In 2020-2021, she also works as Democracy Visiting Fellow at the Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
+Ying Gao is a doctoral candidate in political science at MIT, where she is a Graduate Research Fellow at MIT Governance Lab. Her Ph.D. research spans urban political economy and comparative politics. Her dissertation examines citizen-state relations in urban contexts of development through the lens of economic informality, focusing on how informal housing communities shape governance through collective action, public goods, and subjective perceptions of what it means to participate in politics. She looks at these questions using an array of observational and quasi-experimental methods, and at global and local scales, leveraging cross-national public opinion data and administrative, spatial, and survey data from Indonesia. 
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing, migration-induced demographic diversity and public goods provision, and informal accountability, among other interests. 
+
+In 2020-2021, she also works as Democracy Visiting Fellow at the Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
+
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
