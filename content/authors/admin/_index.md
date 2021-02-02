@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ying Gao
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Massachusetts Institute of Technology (MIT)
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,16 +45,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/YingHbo
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/ying-gao-058b8615
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ying Gao is a Ph.D. candidate in political science at MIT, where she is a Graduate Research Fellow at MIT Governance Lab, and studies political economy and comparative politics. Her dissertation research examines citizen-state relations in urban contexts of development through the lens of urban informality, focusing on how informal housing communities shape governance through collective action, public goods, and subjective perceptions of what it means to participate in politics. She looks at these questions using an array of observational and quasi-experimental methods, and at global and local scales, leveraging cross-national public opinion data and administrative, spatial, and survey data from Indonesia. Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing in developed and developing economies, migration-induced ethnic diversity and public goods, and informal accountability, among other interests. In 2020-2021, she also works as Democracy Visiting Fellow at the Ash Center for Democratic Governance and Innovation, Harvard Kennedy School.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
