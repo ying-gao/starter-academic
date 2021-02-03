@@ -23,8 +23,8 @@ abstract: >-
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
-title: "Social capital and compliance among informal workers during the Covid-19
-  crisis: Rapid survey evidence from Indonesia"
+title: "Social Capital and Compliance among Informal Workers during the Covid-19
+  Crisis: Rapid Survey Evidence from Indonesia"
 location: Online (Webinar) at 13:00 p.m. (Bangkok) / 7:00 a.m. (Geneva)
 date: 2021-01-18T14:00:00.000Z
 date_end: 2021-01-19T16:00:00.000Z
