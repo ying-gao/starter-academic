@@ -10,7 +10,7 @@ abstract: Using original representative mobile survey of Indonesian informal
   platforms. This evidence points to the importance of incorporating social
   capital not only in pandemic control, but also in designing public policies
   encouraging sustainable labor market formalization.
-slides: '"Slides are available upon request."'
+slides: ""
 url_pdf: ""
 summary: A paper presentation at a research forum organized by the International
   Labour Organization (ILO).
@@ -46,3 +46,5 @@ url_code: ""
 Event details:
 
 > The ILO and UN-ESCAP are leading a research project and South-South learning exchange on the topic of technology as a tool to facilitate the transition from informal to formal employment. Policy innovations (simplified to ”e-formality”) will be discussed over the course of a two-day online Research Forum with the aim of facilitating mutual learning, peer review and setting an agenda for a longer-term research and knowledge sharing.
+
+Slides are available upon request.
