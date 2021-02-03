@@ -10,7 +10,7 @@ role: Urbanist + Political Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Massachusetts Institute of Technology
+- name: Massachusetts Institute of Technology (MIT)
   url: http://mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,11 +26,11 @@ interests:
 education:
   courses:
   - course: PhD in Political Science
-    institution: Massachusetts Institute of Technology
+    institution: MIT
     year: Present
   - course: Master in City Planning
-    institution: Massachusetts Institute of Technology
-    year: 2012
+    institution: MIT
+    year: 2014
   - course: BSc in International Politics
     institution: Georgetown University
     year: 2007
