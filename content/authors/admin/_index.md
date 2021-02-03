@@ -74,4 +74,4 @@ Ying Gao is a doctoral candidate in political science at MIT, where she is a Gra
 
 Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing, migration-induced demographic diversity, and informal accountability, among other interests. 
 
-In 2020-2021, she also works as Democracy Visiting Fellow at the [Ash Center for Democratic Governance and Innovation](https://ash.harvard.edu/home/), Harvard Kennedy School. She is an affiliate to the [Urban Mobility Lab at MIT](https://mobility.mit.edu/).
+In 2020-2021, she also works as Democracy Visiting Fellow at the [Ash Center for Democratic Governance and Innovation](https://ash.harvard.edu/home/), Harvard Kennedy School. She is an affiliate with the [Urban Mobility Lab at MIT](https://mobility.mit.edu/).
