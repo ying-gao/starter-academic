@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "ying_gao (at) mit (dot) edu"
 phone = ""
 
 # Address
@@ -129,9 +129,9 @@ twitter = ""
 
 # Date and time format (refer to https://wowchemy.com/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "2006-01-02"
+date_format = "Mon, Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "15:04"
+time_format = "3:04 pm"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
 address_format = "en-us"
