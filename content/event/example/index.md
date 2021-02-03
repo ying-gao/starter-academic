@@ -10,7 +10,7 @@ abstract: Using original representative mobile survey of Indonesian informal
   platforms. This evidence points to the importance of incorporating social
   capital not only in pandemic control, but also in designing public policies
   encouraging sustainable labor market formalization.
-slides: ""
+slides: '"Slides are available upon request."'
 url_pdf: ""
 summary: A paper presentation at a research forum organized by the International
   Labour Organization (ILO).
