@@ -1,63 +1,56 @@
 ---
-title: Example Talk
+abstract: >-
+  Using original representative mobile survey of Indonesian informal workers, I
+  show
 
-event: Wowchemy Conference
-event_url: https://example.org
+  that informal workers generally have lower support for strict public health policies,
 
-location: Wowchemy HQ
+  but social capital in the form of particularistic local associations can increase policy
+
+  acceptance. Using survey experiment, I also show that voluntary compliance rises
+
+  significantly when information is communicated via such associations, while direct
+
+  digital messaging from the government is met with skepticism. The results apply across
+
+  informal workers in traditional sectors as well as those in jobs affected by emerging
+
+  digital platforms. This evidence points to the importance of incorporating social
+
+  capital not only in pandemic control, but also in designing public policies encouraging
+
+  sustainable labor market formalization.
+slides: ""
+url_pdf: ""
+summary: An example talk using Wowchemy's Markdown slides feature.
+title: "Social capital and compliance among informal workers during the Covid-19
+  crisis: Rapid survey evidence from Indonesia"
+location: virtual
+date: 2021-01-18T14:00:00.000Z
+date_end: 2021-01-19T16:00:00.000Z
+all_day: true
+event: Technology and the Transition from Informal to Formal Economy, On-Line
+  Research Forum
+event_url: https://www.ilo.org/asia/events/WCMS_766342/lang--en/index.htm
+featured: true
+authors: []
+url_video: ""
+url_slides: ""
 address:
   street: 450 Serra Mall
   city: Stanford
   region: CA
-  postcode: '94305'
+  postcode: "94305"
   country: United States
-
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
-
-authors: []
+links: []
+publishDate: 2021-02-03T17:50:12.891Z
 tags: []
-
-# Is this a featured talk? (true/false)
-featured: false
-
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: ILO"
   focal_point: Right
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  filename: background.png
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- example
 ---
 
 {{% callout note %}}
