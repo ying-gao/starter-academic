@@ -25,12 +25,11 @@ url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 title: "Social capital and compliance among informal workers during the Covid-19
   crisis: Rapid survey evidence from Indonesia"
-location: virtual
+location: Online (Webinar) at 13:00 p.m. (Bangkok) / 7:00 a.m. (Geneva)
 date: 2021-01-18T14:00:00.000Z
 date_end: 2021-01-19T16:00:00.000Z
 all_day: true
-event: Technology and the Transition from Informal to Formal Economy, On-Line
-  Research Forum
+event: "Research forum: Technology and the Transition from Informal to Formal Economy"
 event_url: https://www.ilo.org/asia/events/WCMS_766342/lang--en/index.htm
 featured: true
 authors: []
@@ -52,15 +51,6 @@ image:
   filename: background.png
 url_code: ""
 ---
+Event details:
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+> The ILO and UN-ESCAP are leading a research project and South-South learning exchange on the topic of technology as a tool to facilitate the transition from informal to formal employment. Policy innovations (simplified to ”e-formality”) will be discussed over the course of a two-day online Research Forum with the aim of facilitating mutual learning, peer review and setting an agenda for a longer-term research and knowledge sharing.
