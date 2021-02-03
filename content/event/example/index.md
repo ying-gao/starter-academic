@@ -48,7 +48,7 @@ projects: []
 image:
   caption: "Image credit: ILO"
   focal_point: Right
-  filename: background.png
+  filename: featured.png
 url_code: ""
 ---
 Event details:
