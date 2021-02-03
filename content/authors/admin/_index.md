@@ -1,7 +1,7 @@
 ---
 title: Ying Gao
 role: Urbanist + Political Scientist
-bio: My research interests include XXX.
+bio: PhD Candidate and Graduate Research Fellow at MIT
 interests:
   - Artificial Intelligence
   - Computational Linguistics
