@@ -35,7 +35,7 @@ superuser: true
 highlight_name: false
 ---
 
-Ying Gao is a doctoral candidate in [political science](https://polisci.mit.edu/) at MIT, where she is a Graduate Research Fellow at the [MIT Governance Lab](https://mitgovlab.org/). Her Ph.D. research spans urban political economy and comparative politics. Her dissertation examines citizen-state relations in urban contexts of development through the lens of economic informality, focusing on how informal housing communities shape governance through collective action, public goods, and subjective perceptions of what it means to participate in politics. She looks at these questions using an array of observational and quasi-experimental methods, and at global and local scales, leveraging cross-national public opinion data and administrative, spatial, and survey data from Indonesia. 
+Ying Gao is a doctoral candidate in [political science](https://polisci.mit.edu/) at MIT, where she is a Graduate Research Fellow at the [MIT Governance Lab](https://mitgovlab.org/). Her Ph.D. research spans urban political economy and comparative politics. Her dissertation examines citizen-state relations in urban contexts of development through the lens of economic informality, using an array of observational and quasi-experimental methods and cross-national public opinion data and large-scale administrative, spatial, and survey data from Indonesia. 
 
 Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing, migration-induced demographic diversity, and informal accountability, among other interests. 
 
