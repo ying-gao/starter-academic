@@ -4,8 +4,10 @@ role: Urbanist + Political Scientist
 bio: PhD Candidate and Graduate Research Fellow at MIT
 interests:
   - Political Economy
-  - Computational Linguistics
-  - Sustainable Urbanization
+  - Behavior
+  - Sustainable Urban Development
+  - Quantitative Social Science
+  - Spatial Analysis and Visualization
 social:
   - icon: envelope
     icon_pack: fas
