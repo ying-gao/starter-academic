@@ -1,6 +1,6 @@
 ---
 title: Informal Housing and Good Citizens in Development
-subtitle: Dissertation in progress
+subtitle: dissertation in progress
 date: 2021-02-04T18:31:53.739Z
 draft: false
 featured: false
@@ -10,6 +10,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-What is the role of urban informal housing (slums) in shaping the politics of public goods provision in the developing world?  I propose that informal housing leads to collective public goods provision by community residents, engendering community-bound social capital while lowering citizen expectation of official public goods in the long run.  I examine this argument using cross-national public opinion surveys, household panel surveys, and evidence from policy variations.  
+What is the role of urban informal housing (slums) in shaping the politics of public goods provision in the developing world?  According to the UN, 881 million people, or 33% of global urban population, reside in slum or informal settlements.  The perspective of housing informality can illuminate an underexplored area of conditions under which inequality can shape how ordinary citizens engage with the state through public goods, particularly in fast-urbanizing middle-income regions.
 
-According to the UN, 881 million people, or 33% of global urban population, reside in slum or informal settlements, but scholars have traditionally focused on labor market dynamics to explain the politics of urban informal economy.  Analysis of variation in housing informality can illuminate an underexplored area of conditions under which inequality can shape how low-resourced citizens engage with the state through public goods, particularly in middle-income countries.
+Hence, this dissertation examines citizen-state relations in contemporary urban contexts of development, focusing on how informal housing communities shape governance through collective action, public goods, and subjective perceptions of what it means to participate in politics. I propose that informal housing leads to collective public goods provision by community residents, engendering community-bound social capital while lowering citizen expectation of official public goods in the long run. The research looks at these hypotheses using an array of observational and quasi-experimental methods, and at global and local scales, leveraging cross-national public opinion data and administrative, spatial, and large survey data from Indonesia.
