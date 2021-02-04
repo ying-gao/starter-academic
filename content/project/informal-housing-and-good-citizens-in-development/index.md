@@ -4,7 +4,7 @@ subtitle: Dissertation in progress
 date: 2021-02-04T18:31:53.739Z
 draft: false
 featured: false
-external_link: https://mitgovlab.org/updates/2019-mit-gov-lab-seed-fund-grantees/
+external_link: ""
 image:
   filename: featured
   focal_point: Smart
