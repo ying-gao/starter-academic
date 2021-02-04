@@ -1,5 +1,5 @@
 ---
-title: Invited Talk at HKS Ash Center Asia Fellows Seminar
+title: Invited Talk
 abstract: What is the role of urban informal housing (slums) in shaping the politics of public goods provision in the developing world? A presentation of dissertation in progress.
 location: the Ash Center Foyer (2nd Floor of the North Suite, 124 Mt. Auburn Street, Cambridge, MA 02138)
 date: 2019-09-09T10:00:00.000Z
