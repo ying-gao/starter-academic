@@ -1,11 +1,10 @@
 ---
 title: Ying Gao
-role: Urbanist + Political Scientist
-bio: PhD Candidate and Graduate Research Fellow at MIT
+role: Graduate Research Fellow 
+bio: PhD candidate in Political Science at MIT
 interests:
   - Political Economy
-  - Behavior
-  - Sustainable Urban Development
+  - Comparative Politics
   - Quantitative Social Science
   - Spatial Analysis and Visualization
 social:
