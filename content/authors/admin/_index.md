@@ -3,9 +3,9 @@ title: Ying Gao
 role: Urbanist + Political Scientist
 bio: PhD Candidate and Graduate Research Fellow at MIT
 interests:
-  - Artificial Intelligence
+  - Political Economy
   - Computational Linguistics
-  - Information Retrieval
+  - Sustainable Urbanization
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,7 +35,7 @@ superuser: true
 highlight_name: false
 ---
 
-Ying Gao is a doctoral candidate in [political science](https://polisci.mit.edu/) at MIT, where she is a Graduate Research Fellow at the [MIT Governance Lab](https://mitgovlab.org/). Her Ph.D. research spans urban political economy and comparative politics. Her dissertation examines citizen-state relations through the lens of economic informality, using an array of observational and quasi-experimental methods and cross-national public opinion data and large-scale administrative, spatial, and survey data. 
+Ying Gao is a doctoral candidate in [political science](https://polisci.mit.edu/) at MIT, where she is a Graduate Research Fellow at the [MIT Governance Lab](https://mitgovlab.org/). Her Ph.D. research spans urban political economy and comparative politics. Her dissertation uses quantitative social science methods to examine citizen-state relations through the lens of economic informality. 
 
 Some of Ying’s other research projects explore the influence of platform economy and innovative labor organizing, migration-induced demographic diversity, and informal accountability, among other interests. 
 
