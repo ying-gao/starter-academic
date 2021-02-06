@@ -7,7 +7,8 @@ draft: false
 featured: false
 tags: 
   - Platform Economy
-  - Southeast Asia
+  - Field Research
+  - Urban Informality
 external_link: []
 links:
   - url: https://mitgovlab.org/updates/streets-ahead-future-of-work-for-jakartas-informal-transportation/
