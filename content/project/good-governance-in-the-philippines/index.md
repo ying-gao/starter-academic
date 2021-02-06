@@ -4,7 +4,8 @@ subtitle: field research supervision in the Philippines
 date: 2017-09-01T20:07:24.296Z
 draft: false
 featured: false
-tags: []
+tags: 
+ - Field Research
 external_link: []
 links:
   - name: MIT GOV/LAB blog
