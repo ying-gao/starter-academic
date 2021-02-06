@@ -36,6 +36,5 @@ image:
   filename: featured.png
 url_code: ""
 ---
-The ILO and UN-ESCAP are leading a research project and South-South learning exchange on the topic of technology as a tool to facilitate the transition from informal to formal employment. Policy innovations (simplified to ”e-formality”) will be discussed over the course of a two-day online Research Forum with the aim of facilitating mutual learning, peer review and setting an agenda for a longer-term research and knowledge sharing.
 
 Slides are available upon request.
