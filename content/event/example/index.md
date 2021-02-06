@@ -1,6 +1,5 @@
 ---
-abstract: A paper presentation at a research forum organized by the International
-  Labour Organization (ILO).
+abstract: ""
 slides: ""
 url_pdf: ""
 summary: ""
@@ -32,4 +31,4 @@ image:
 url_code: ""
 ---
 
-Slides are available upon request.
+A paper presentation at a research forum organized by the International Labour Organization (ILO). Slides are available upon request.
