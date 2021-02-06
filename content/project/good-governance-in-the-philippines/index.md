@@ -5,7 +5,7 @@ date: 2017-09-01T20:07:24.296Z
 draft: false
 featured: false
 tags: []
-external_link: "[]"
+external_link: []
 links:
   - name: MIT GOV/LAB blog
     url: https://mitgovlab.org/updates/building-equal-footing-for-good-governance-in-the-philippines/
