@@ -1,5 +1,5 @@
 ---
-title: Mobility App and People in Developing Cities
+title: Mobility App and Citizens
 subtitle: field research in Jakarta, Indonesia
 date: 2019-10-01T18:59:48.464Z
 summary: ""
