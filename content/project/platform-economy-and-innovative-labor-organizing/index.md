@@ -5,7 +5,7 @@ title: Platform Economy and Innovative Labor Organizing
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2021-02-06T14:39:48.400Z
-external_link: '""'
+external_link: "[]"
 url_slides: ""
 subtitle: fieldwork in Jakarta
 tags:
