@@ -1,5 +1,5 @@
 ---
-abstract: xxx
+abstract: ""
 slides: ""
 url_pdf: ""
 summary: A paper presentation at a research forum organized by the International
@@ -27,6 +27,8 @@ links: []
 publishDate: 2021-02-03T18:10:35.260Z
 tags:
   - Survey
+  - Survey Experiment
+  - Covid-19
 projects: []
 image:
   caption: "Image credit: ILO"
