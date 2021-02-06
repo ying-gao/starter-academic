@@ -26,7 +26,6 @@ address:
 links: []
 publishDate: 2021-02-03T18:10:35.260Z
 tags:
-  - Survey
   - Survey Experiment
   - Covid-19
 projects: []
