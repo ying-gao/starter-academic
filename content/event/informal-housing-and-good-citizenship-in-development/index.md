@@ -1,5 +1,5 @@
 ---
-title: Invited Talk
+title: "Invited Talk: HKS Ash Center Asia Fellows Seminar"
 abstract: What is the role of urban informal housing (slums) in shaping the
   politics of public goods provision in the developing world? A presentation of
   dissertation in progress.
