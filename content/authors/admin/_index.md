@@ -31,7 +31,7 @@ education:
     - course: BSc in International Politics
       institution: Georgetown University
       year: 2007
-email: ""
+email: ying_gao[at]mit[dot]edu
 superuser: true
 highlight_name: false
 ---
