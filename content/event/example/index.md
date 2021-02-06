@@ -1,5 +1,5 @@
 ---
-abstract: ""
+abstract: xxx
 slides: ""
 url_pdf: ""
 summary: A paper presentation at a research forum organized by the International
@@ -25,7 +25,8 @@ address:
   country: null
 links: []
 publishDate: 2021-02-03T18:10:35.260Z
-tags: []
+tags:
+  - Survey
 projects: []
 image:
   caption: "Image credit: ILO"
