@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 tags: []
-external_link: []
+external_link: "[]"
 links:
   - url: https://mitgovlab.org/updates/streets-ahead-future-of-work-for-jakartas-informal-transportation/
     name: MIT GOV/LAB blog
@@ -16,4 +16,4 @@ image:
   preview_only: false
   caption: Photo by Ying Gao
 ---
-Study supported by MIT D-Lab International Development Innovation Network (IDIN) and MIT GOV/Lab.
+Study supported by [MIT D-Lab](https://d-lab.mit.edu/) International Development Innovation Network (IDIN) and MIT GOV/LAB.
