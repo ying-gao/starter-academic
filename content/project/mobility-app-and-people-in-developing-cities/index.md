@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 tags: []
-external_link: https://mitgovlab.org/updates/streets-ahead-future-of-work-for-jakartas-informal-transportation/
+external_link: []
 links:
   - url: https://mitgovlab.org/updates/streets-ahead-future-of-work-for-jakartas-informal-transportation/
     name: MIT GOV/LAB blog
