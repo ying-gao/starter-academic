@@ -24,7 +24,7 @@ tags:
   - Survey Experiment
   - Covid-19
   - Urban Informality
-projects: mobility-app-and-people-in-developing-cities
+projects: []
 image:
   caption: "Image credit: ILO"
   focal_point: Right
