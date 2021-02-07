@@ -6,7 +6,12 @@ publication_types:
 authors:
   - admin
 draft: false
-featured: true
+featured: false
+
+# Publication name and optional abbreviated publication name.
+publication: In *Research forum: Technology and the Transition from Informal to Formal Economy*
+publication_short: In *Technology and the Transition from Informal to Formal Economy*
+
 image:
   filename: featured
   focal_point: Smart
