@@ -4,7 +4,7 @@ role: Graduate Research Fellow
 bio: PhD candidate in Poli Sci at MIT
 interests:
   - Political Economy
-  - Comparative Politics
+  - Urban Policy
   - Quantitative Social Science
   - Spatial Analysis and Visualization
 social:
