@@ -2,7 +2,8 @@
 title: Social Capital and Compliance among Informal Workers during the Covid-19 Crisis
 subtitle: Rapid Survey Evidence from Indonesia
 
-author: admin
+authors: 
+- admin
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
