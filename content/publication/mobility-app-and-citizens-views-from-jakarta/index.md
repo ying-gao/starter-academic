@@ -11,7 +11,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-02-07T18:43:05.627Z
+date: 2017-09-30T18:43:05.627Z
 
 
 # Schedule page publish date (NOT publication's date).
