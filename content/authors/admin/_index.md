@@ -1,7 +1,7 @@
 ---
 title: Ying Gao
 role: Graduate Research Fellow 
-bio: PhD candidate in Political Science at MIT
+bio: PhD candidate in Poli Sci at MIT
 interests:
   - Political Economy
   - Comparative Politics
