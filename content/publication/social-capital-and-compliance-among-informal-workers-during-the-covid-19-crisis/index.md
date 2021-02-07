@@ -23,7 +23,7 @@ date: 2021-01-18T13:52:22.268Z
 publishDate: "2021-01-18T13:52:22.268Z"
 
 # Publication name and optional abbreviated publication name.
-publication: In *Technology and the Transition from Informal to Formal Economy*
+publication: In *ILO-ESCAP Research Forum on Technology and the Transition from Informal to Formal Economy*
 publication_short: In *ILO-ESCAP Research Forum*
 
 abstract: Using original representative mobile survey of Indonesian informal workers, I show that informal workers generally have lower support for strict public health policies, but social capital in the form of particularistic local associations can increase policy acceptance. 
@@ -37,6 +37,14 @@ tags: []
 # links:
 # - name: Custom Link
 #   url: http://example.org
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- mobility-app-and-people-in-developing-cities
 
 ---
 
