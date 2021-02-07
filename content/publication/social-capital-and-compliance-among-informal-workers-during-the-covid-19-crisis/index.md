@@ -27,7 +27,7 @@ publication: In *ILO-ESCAP Research Forum: Technology and the Transition from In
 publication_short: In *ILO-ESCAP Research Forum*
 
 abstract: Using original representative mobile survey of Indonesian informal workers, I show that informal workers generally have lower support for strict public health policies,
-but social capital in the form of particularistic local associations can increase policy acceptance. Using survey experiment, I also show that voluntary compliance rises significantly when information is communicated via such associations, while direct digital messaging from the government is met with skepticism. The results apply across informal workers in traditional sectors as well as those in jobs affected by emerging digital platforms. This evidence points to the importance of incorporating social capital not only in pandemic control, but also in designing public policies encouraging sustainable labor market formalization.
+but social capital in the form of particularistic local associations can increase policy acceptance. Using survey experiment, I also show that voluntary compliance rises significantly when information is communicated via such associations, while direct digital messaging from the government is met with skepticism. The results apply across informal workers in traditional sectors as well as those in jobs affected by emerging digital platforms.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
