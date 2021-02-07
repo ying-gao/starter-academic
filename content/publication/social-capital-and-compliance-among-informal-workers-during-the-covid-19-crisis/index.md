@@ -6,10 +6,10 @@ publication_types:
 authors:
   - admin
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
   preview_only: true
-date: 2021-02-07T13:52:22.268Z
+date: 2021-01-18T13:52:22.268Z
 ---
