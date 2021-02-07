@@ -43,8 +43,8 @@ tags: []
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-talks:
-- social-capital-and-compliance-among-informal-workers-during-the-covid-19-crisis-rapid-survey-evidence-from-indonesia
+# projects:
+
 
 ---
 
