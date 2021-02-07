@@ -22,7 +22,7 @@ publication: In *Research forum: Technology and the Transition from Informal to 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
