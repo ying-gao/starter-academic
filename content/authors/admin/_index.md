@@ -42,4 +42,4 @@ Some of Ying’s other projects explore the influence of platform economy and gr
 
 In 2020-2021, she also works as Democracy Visiting Fellow at the [Ash Center for Democratic Governance and Innovation](https://ash.harvard.edu/home/), Harvard Kennedy School. She is an affiliate with the [Urban Mobility Lab at MIT](https://mobility.mit.edu/).
 
-A native of Japan, and after living in cities from Bangkok to São Paulo, she is currently based in Cambridge MA and enjoys discovering new neighborhoods and learning new (human) languages.
+A native of Beijing and raised in Japan, after living in cities from Bangkok to São Paulo, she is currently based in Cambridge MA and enjoys discovering new neighborhoods and learning new (human) languages.
