@@ -7,6 +7,7 @@ interests:
   - Urban Policy
   - Quantitative Social Science
   - Spatial Analysis and Visualization
+  - Mixed Methods
 social:
   - icon: envelope
     icon_pack: fas
